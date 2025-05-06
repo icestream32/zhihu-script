@@ -1,13 +1,7 @@
 name: zhihu-script
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.12
   - pip
-  - playwright
-  - opencv
-  - numpy
-  - pip:
-    - pyautogui
-    - mss
-    - asyncio

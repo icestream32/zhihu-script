@@ -1,0 +1,6 @@
+playwright
+opencv-python
+numpy
+pyautogui
+mss
+asyncio
